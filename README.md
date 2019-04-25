@@ -12,6 +12,10 @@ solution to whatever problem it is addressing.
 
 Test01.ipynb is an ipython/jupiter style notebook (colab variety - apparently slightly different)
 
+The actual content is a simple example of using python and beautifulsoup to read a wikipedia page and
+extract a list of names of US presidents - which I lifted from a web tutorial 
+(link provided in the notebook). 
+
 Which can be opened in google colab at : 
 
 https://colab.research.google.com/github/johnsl01/WebBits/blob/master/Test01.ipynb
