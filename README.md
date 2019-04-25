@@ -12,11 +12,12 @@ solution to whatever problem it is addressing.
 
 Test01.ipynb is an ipython/jupiter style notebook (colab variety - apparently slightly different)
 
-Which can be opened in google colab 
-at : 
+Which can be opened in google colab at : 
+
 https://colab.research.google.com/github/johnsl01/WebBits/blob/master/Test01.ipynb
 
 Get started with Google Colab here : 
+
 https://colab.research.google.com/notebooks/welcome.ipynb
 
 ================
