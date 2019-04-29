@@ -1,0 +1,40 @@
+You can also add math to text cells using [LaTeX](http://www.latex-project.org/)
+to be rendered by [MathJax](https://www.mathjax.org). Just place the statement
+within a pair of **\$** signs. For example `$\sqrt{3x-1}+(1+x)^2$` becomes
+$\sqrt{3x-1}+(1+x)^2.$
+
+$ b +/- \sqrt{b^2 - 4ac} / {2a}$
+
+
+$$x = {{-b \pm \sqrt{b^2-4ac}} \over {2a}}$$
+
+
+$x = {{-b \pm \sqrt{b^2-4ac}} \over {2a}}$
+
+$$
+x = {
+r^3 + {{-b \pm \sqrt{b^2-4ac}}
+\over {2a}
+} 
+\over \pi
+}$$
+
+$\pi$
+
+$\ln x$
+
+$(\sigma - 1)^2$
+
+
+$$ \Sigma {
+    {r^2} 
+    \over 
+    { \pi \over 2} 
+} $$
+
+
+\$
+
+When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are:
+
+$x = {-b + \sqrt{b^2-4ac} \over 2a}$   and $x = {-b  - \sqrt{b^2-4ac} \over 2a}$
